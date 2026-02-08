@@ -1,2 +1,9 @@
-<h2 align="center">My Github Stats</h2>
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=tunahanucar&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
+## Tunahan Uçar
+Freshman Physics Student @ Bogazici University
+Interested in Quantum Information and Quantum Information Thermodynamics, Optics and Quantum Optics
+
+##Main Focus
+- Simulations in quantum optics and visualizations of models in quantum information
+- Competitive Programming
+- Scientific Computing
+- Code-Based Quantum and Statistical Experiments
